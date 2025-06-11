@@ -54,6 +54,4 @@ Here are the essential tools in my data toolkit, each playing a valuable role in
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo"/>
   <strong>Python</strong>: My preferred language for data cleaning, analysis, and automation. I often use libraries like Pandas, NumPy, and Matplotlib to streamline my work.
 </p>
-<p align="center">
-> *"In God we trust; all others must bring data." – W. Edwards Deming*
-</p>
+
